@@ -1,0 +1,8 @@
+.card {
+  background-color: var(--fundo-card);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 10px;
+  text-align: center;
+}
